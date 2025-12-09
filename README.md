@@ -47,7 +47,7 @@
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KIMMYEONGHYEON0&theme=python-dark&hide_border=&locale=ko&short_numbers=" alt="GitHub Streak" /></a> -->
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=LightNow0&utm_content=farm">
 <img
-  src="https://render.gitanimals.org/guilds/LightNow0"
+  src="https://render.gitanimals.org/farms/LightNow0"
   width="600"
   height="300"
 />
